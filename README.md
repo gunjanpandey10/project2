@@ -1,4 +1,4 @@
 # New Project
 
-Created from local system
-Created by Gunjan Pandey.
+Created from local system.
+Creater: Created by Gunjan Pandey.
